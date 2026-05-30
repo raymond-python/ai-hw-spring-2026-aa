@@ -147,9 +147,9 @@ Example result format:
 
 | Attack | Recognition Rate | Attack Success Rate |
 |----------|----------|----------|
-| FGSM | XX.XX% | XX.XX% |
-| I-FGSM / PGD | XX.XX% | XX.XX% |
-| Momentum I-FGSM | XX.XX% | XX.XX% |
+| FGSM | 98.91% | 81.40% |
+| I-FGSM / PGD | 98.91% | 99.99% |
+| Momentum I-FGSM | 98.91% | 99.86% |
 
 Replace the values above with the actual results generated from your experiment.
 
